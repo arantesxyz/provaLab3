@@ -1,0 +1,3 @@
+consoantes = 10
+e = 2
+o = 2
